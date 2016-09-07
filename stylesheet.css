@@ -1,5 +1,7 @@
 h1 {
   color: #0000ff;
+  font-size: 50px;
+  font-family: cursive;
 }
 
 p {
@@ -9,4 +11,15 @@ p {
 
 .main-text {
   font-size: 24px;
+  font-family: fantasy;
+}
+img {
+  height: 400px;
+  width: 400px;
+  position: absolute;
+  margin: auto;
+  top: 129px;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
